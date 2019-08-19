@@ -1,0 +1,14 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat);
+
+.jimu-main-font {
+  font-family: 'Montserrat';
+}
+
+.jimu-main-background {
+  background-color: #002F5D;
+}
+
+.jimu-title,
+.jimu-subtitle {
+  color: #FFFF;
+}

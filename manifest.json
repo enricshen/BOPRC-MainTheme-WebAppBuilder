@@ -13,6 +13,11 @@
   ],
   "styles": [
     {
+      "name": "boprc",
+      "description": "BOPRC default style",
+      "styleColor": "#002F5D"
+    },
+    {
       "name": "default",
       "description": "this is default style",
       "styleColor": "#596679"
