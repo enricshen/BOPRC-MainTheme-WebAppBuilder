@@ -30,3 +30,14 @@
   -webkit-border-radius: 50%;
   border-radius: 50%;
 }
+
+.jimu-widget-header-controller .icon-node.jimu-state-selected {
+  opacity: 0.8;
+  border-top: 0;
+  background-color: #00529B;
+}
+
+.jimu-on-screen-widget-panel>.jimu-panel-title,
+.jimu-foldable-panel>.jimu-panel-title {
+  background-color: #00529B;
+}
