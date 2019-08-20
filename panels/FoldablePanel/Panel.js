@@ -72,7 +72,7 @@ define(['dojo/_base/declare',
         } else {
           var pos = lang.clone(this.position);
           if(typeof pos.width === 'undefined'){
-            pos.width = 360;
+            pos.width = 350;
           }
           if(this.windowState === 'minimized'){
             pos.bottom = 'auto';
@@ -85,7 +85,8 @@ define(['dojo/_base/declare',
             };
           }else{
             pos.bottom = this.position.bottom;
-            pos.height = 'auto';
+            //pos.height = 'auto';
+            pos.height = 550;
             pos.borderRadiusStyle = {
               borderTopLeftRadius: borderRadius,
               borderTopRightRadius: borderRadius,
