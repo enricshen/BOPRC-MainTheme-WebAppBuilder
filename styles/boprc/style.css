@@ -41,3 +41,7 @@
 .jimu-foldable-panel>.jimu-panel-title {
   background-color: #00529B;
 }
+
+.esriPopup .titlePane {
+  background-color: #00529B;
+}
