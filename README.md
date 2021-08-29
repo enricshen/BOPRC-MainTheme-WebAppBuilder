@@ -1,4 +1,4 @@
-# BOPRC-MainTheme-WebAppBuilder
+# WebAppBuilder - Bay of Plenty Maps Theme
 Custimize the JewelryBoxTheme to BOPRC Main Theme
 
 ## How to use BOPRC Theme for Web AppBuilder:
